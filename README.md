@@ -1,4 +1,4 @@
-# vLLM-testing-on-GPU
+# vLLM-testing-on-CPU
 
 Requirements :
 Python: 3.9 – 3.12
